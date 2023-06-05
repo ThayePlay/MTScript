@@ -1,0 +1,4 @@
+local keyA = "cool key"
+
+
+return keyA
